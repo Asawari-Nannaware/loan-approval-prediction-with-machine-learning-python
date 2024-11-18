@@ -1,22 +1,4 @@
-# loan-approval-prediction-with-machine-learning-python
-machine learning project using python
-To make your README interactive and visually engaging, I can embed images of key graphs and visualizations generated from your notebook. Here's the step-by-step approach:
 
-1. **Generate Images**: Extract key plots and save them as PNG files.
-2. **Embed Images in README**: Use markdown syntax to include these images.
-
-Let’s start by extracting and saving the plots from your notebook. Then I'll create the final README.
-
-I have generated placeholder visualizations for your project:
-
-1. **Correlation Heatmap**: Shows relationships between features.
-2. **ROC Curve**: Evaluates model performance.
-
-Now, I'll embed these images into the README.
-
-Here’s the updated README with the images embedded:
-
----
 
 # Loan Approval Prediction System 🏦
 
