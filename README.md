@@ -70,11 +70,13 @@ Here’s the updated README with the images embedded:
 ## 📊 Visualizations
 
 ### Correlation Heatmap
-![Correlation Heatmap](loan_approval_images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/Asawari-Nannaware/loan-approval-prediction-with-machine-learning-python/blob/main/heatmap.png)
 
-### ROC Curve
-![ROC Curve](loan_approval_images/roc_curve.png)
+### variable weightage in model performance
+![variable weightage in model performance](https://github.com/Asawari-Nannaware/loan-approval-prediction-with-machine-learning-python/blob/main/variable_weightage_in_model_performance.png)
 
+### final comparision of models
+![final comparision of models](https://github.com/Asawari-Nannaware/loan-approval-prediction-with-machine-learning-python/blob/main/final%20comparision.png)
 These visualizations highlight key relationships between variables and the effectiveness of the model.
 
 ## 🏆 Highlights 
@@ -84,11 +86,5 @@ These visualizations highlight key relationships between variables and the effec
   - Includes cross-validation and hyperparameter tuning for robust results.
 - **Scalability**: The approach can adapt to datasets from different institutions with minimal changes.
 
----
 
-## 📂 File Structure
-- **`Loan_Approval_Prediction_System.ipynb`**: Main notebook with all steps.
-- **`requirements.txt`**: List of dependencies for easy setup.
-- **Data**: Dataset (not included in the repository, available on request).
-- **Visualizations**: Graphs stored in the `loan_approval_images` folder.
 
